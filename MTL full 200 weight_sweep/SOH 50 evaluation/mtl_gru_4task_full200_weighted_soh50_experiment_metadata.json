@@ -1,0 +1,19 @@
+{
+  "FINAL_CONFIG": "soh50",
+  "weights": {
+    "SOH": 0.5,
+    "R0": 0.16666666666666666,
+    "R1": 0.16666666666666666,
+    "R2": 0.16666666666666666
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "epochs": 200,
+  "checkpoint_rule": "minimum weighted validation joint MSE",
+  "weight_selection_rule": "validation-only comparison to frozen equal-weight MTL"
+}
