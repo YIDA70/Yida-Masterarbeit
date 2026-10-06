@@ -1,0 +1,107 @@
+电芯编号,电芯文件夹,文件数量,成功读取文件数,初始 SOH,满足三SOC的 SOH 数量,是否满足三SOC协议,筛选分类,剔除原因,用途
+3,METABatt_Sony_Murata_18650VTC6_003,28,28,96.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+8,METABatt_Sony_Murata_18650VTC6_008,28,27,96.3,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+29,METABatt_Sony_Murata_18650VTC6_029,27,27,96.2,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+31,METABatt_Sony_Murata_18650VTC6_031,30,30,95.9,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+36,METABatt_Sony_Murata_18650VTC6_036,30,30,96.0,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+39,METABatt_Sony_Murata_18650VTC6_039,30,30,96.3,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+40,METABatt_Sony_Murata_18650VTC6_040,30,30,95.9,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+45,METABatt_Sony_Murata_18650VTC6_045,28,28,96.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+49,METABatt_Sony_Murata_18650VTC6_049,26,26,96.5,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+52,METABatt_Sony_Murata_18650VTC6_052,27,27,97.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+57,METABatt_Sony_Murata_18650VTC6_057,27,27,97.0,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+58,METABatt_Sony_Murata_18650VTC6_058,29,28,95.7,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+60,METABatt_Sony_Murata_18650VTC6_060,28,28,96.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+76,METABatt_Sony_Murata_18650VTC6_076,28,28,96.0,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+79,METABatt_Sony_Murata_18650VTC6_079,27,27,96.7,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+81,METABatt_Sony_Murata_18650VTC6_081,28,28,95.6,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+87,METABatt_Sony_Murata_18650VTC6_087,27,27,97.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+98,METABatt_Sony_Murata_18650VTC6_098,27,27,97.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+113,METABatt_Sony_Murata_18650VTC6_113,29,28,96.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+114,METABatt_Sony_Murata_18650VTC6_114,30,29,96.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+138,METABatt_Sony_Murata_18650VTC6_138,30,30,96.3,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+141,METABatt_Sony_Murata_18650VTC6_141,30,30,95.9,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+143,METABatt_Sony_Murata_18650VTC6_143,30,30,96.2,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+147,METABatt_Sony_Murata_18650VTC6_147,30,30,96.0,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+148,METABatt_Sony_Murata_18650VTC6_148,30,30,96.0,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+171,METABatt_Sony_Murata_18650VTC6_171,26,26,96.9,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+183,METABatt_Sony_Murata_18650VTC6_183,25,25,97.0,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+185,METABatt_Sony_Murata_18650VTC6_185,27,27,96.7,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+187,METABatt_Sony_Murata_18650VTC6_187,27,27,97.1,26,False,剔除,不满足10%、50%、90%三SOC协议,不用
+194,METABatt_Sony_Murata_18650VTC6_194,30,30,95.9,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+228,METABatt_Sony_Murata_18650VTC6_228,30,30,95.9,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+236,METABatt_Sony_Murata_18650VTC6_236,30,30,95.9,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+241,METABatt_Sony_Murata_18650VTC6_241,27,27,95.8,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+246,METABatt_Sony_Murata_18650VTC6_246,30,30,95.9,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+249,METABatt_Sony_Murata_18650VTC6_249,30,30,96.0,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+251,METABatt_Sony_Murata_18650VTC6_251,5,3,98.2,3,True,剔除,check-up ≤ 3,不用
+260,METABatt_Sony_Murata_18650VTC6_260,27,27,97.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+269,METABatt_Sony_Murata_18650VTC6_269,27,27,97.1,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+279,METABatt_Sony_Murata_18650VTC6_279,5,3,98.5,3,True,剔除,check-up ≤ 3,不用
+286,METABatt_Sony_Murata_18650VTC6_286,18,18,98.8,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+287,METABatt_Sony_Murata_18650VTC6_287,18,18,98.9,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+293,METABatt_Sony_Murata_18650VTC6_293,4,2,93.4,2,True,剔除,check-up ≤ 3,不用
+294,METABatt_Sony_Murata_18650VTC6_294,5,3,96.4,3,True,剔除,check-up ≤ 3,不用
+299,METABatt_Sony_Murata_18650VTC6_299,5,3,96.2,3,True,剔除,check-up ≤ 3,不用
+303,METABatt_Sony_Murata_18650VTC6_303,27,27,96.8,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+311,METABatt_Sony_Murata_18650VTC6_311,26,26,96.8,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+315,METABatt_Sony_Murata_18650VTC6_315,26,26,96.8,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+418,METABatt_Sony_Murata_18650VTC6_418,1,1,91.4,1,True,剔除,check-up ≤ 3,不用
+423,METABatt_Sony_Murata_18650VTC6_423,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+424,METABatt_Sony_Murata_18650VTC6_424,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+429,METABatt_Sony_Murata_18650VTC6_429,1,1,92.0,1,True,剔除,check-up ≤ 3,不用
+434,METABatt_Sony_Murata_18650VTC6_434,1,1,92.0,1,True,剔除,check-up ≤ 3,不用
+506,METABatt_Sony_Murata_18650VTC6_506,15,15,96.3,10,False,剔除,不满足10%、50%、90%三SOC协议,不用
+510,METABatt_Sony_Murata_18650VTC6_510,19,19,98.5,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+512,METABatt_Sony_Murata_18650VTC6_512,19,19,98.3,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+518,METABatt_Sony_Murata_18650VTC6_518,19,19,98.3,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+522,METABatt_Sony_Murata_18650VTC6_522,18,18,98.3,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+528,METABatt_Sony_Murata_18650VTC6_528,19,19,98.5,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+530,METABatt_Sony_Murata_18650VTC6_530,19,19,98.5,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+534,METABatt_Sony_Murata_18650VTC6_534,19,19,98.5,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+539,METABatt_Sony_Murata_18650VTC6_539,19,19,98.2,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+542,METABatt_Sony_Murata_18650VTC6_542,19,19,98.2,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+543,METABatt_Sony_Murata_18650VTC6_543,18,14,97.6,0,False,剔除,不满足10%、50%、90%三SOC协议,不用
+547,METABatt_Sony_Murata_18650VTC6_547,19,19,98.4,1,False,剔除,不满足10%、50%、90%三SOC协议,不用
+551,METABatt_Sony_Murata_18650VTC6_551,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+552,METABatt_Sony_Murata_18650VTC6_552,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+553,METABatt_Sony_Murata_18650VTC6_553,1,1,92.0,1,True,剔除,check-up ≤ 3,不用
+554,METABatt_Sony_Murata_18650VTC6_554,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+555,METABatt_Sony_Murata_18650VTC6_555,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+556,METABatt_Sony_Murata_18650VTC6_556,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+557,METABatt_Sony_Murata_18650VTC6_557,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+559,METABatt_Sony_Murata_18650VTC6_559,4,2,91.9,2,True,剔除,check-up ≤ 3,不用
+560,METABatt_Sony_Murata_18650VTC6_560,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+561,METABatt_Sony_Murata_18650VTC6_561,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+563,METABatt_Sony_Murata_18650VTC6_563,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+564,METABatt_Sony_Murata_18650VTC6_564,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+565,METABatt_Sony_Murata_18650VTC6_565,1,1,92.1,1,True,剔除,check-up ≤ 3,不用
+566,METABatt_Sony_Murata_18650VTC6_566,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+567,METABatt_Sony_Murata_18650VTC6_567,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+568,METABatt_Sony_Murata_18650VTC6_568,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+569,METABatt_Sony_Murata_18650VTC6_569,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+570,METABatt_Sony_Murata_18650VTC6_570,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+571,METABatt_Sony_Murata_18650VTC6_571,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+574,METABatt_Sony_Murata_18650VTC6_574,1,1,92.1,1,True,剔除,check-up ≤ 3,不用
+575,METABatt_Sony_Murata_18650VTC6_575,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+576,METABatt_Sony_Murata_18650VTC6_576,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+578,METABatt_Sony_Murata_18650VTC6_578,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+579,METABatt_Sony_Murata_18650VTC6_579,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+580,METABatt_Sony_Murata_18650VTC6_580,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+581,METABatt_Sony_Murata_18650VTC6_581,1,1,91.6,1,True,剔除,check-up ≤ 3,不用
+582,METABatt_Sony_Murata_18650VTC6_582,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+583,METABatt_Sony_Murata_18650VTC6_583,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+585,METABatt_Sony_Murata_18650VTC6_585,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+587,METABatt_Sony_Murata_18650VTC6_587,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+588,METABatt_Sony_Murata_18650VTC6_588,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+589,METABatt_Sony_Murata_18650VTC6_589,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+590,METABatt_Sony_Murata_18650VTC6_590,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+592,METABatt_Sony_Murata_18650VTC6_592,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+593,METABatt_Sony_Murata_18650VTC6_593,1,1,92.0,1,True,剔除,check-up ≤ 3,不用
+594,METABatt_Sony_Murata_18650VTC6_594,1,1,91.8,1,True,剔除,check-up ≤ 3,不用
+595,METABatt_Sony_Murata_18650VTC6_595,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+596,METABatt_Sony_Murata_18650VTC6_596,1,1,91.9,1,True,剔除,check-up ≤ 3,不用
+597,METABatt_Sony_Murata_18650VTC6_597,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+598,METABatt_Sony_Murata_18650VTC6_598,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+599,METABatt_Sony_Murata_18650VTC6_599,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
+600,METABatt_Sony_Murata_18650VTC6_600,1,1,91.7,1,True,剔除,check-up ≤ 3,不用
